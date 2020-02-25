@@ -1,0 +1,7 @@
+
+steps:
+1.open youtube.
+2.search github tutorial.
+3.select naveen reddy video.
+4.watch it and practice.
+5.done.
